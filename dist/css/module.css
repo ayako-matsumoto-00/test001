@@ -1,0 +1,150 @@
+.txt-right {
+  text-align: right;
+}
+.clear {
+  clear: both;
+}
+.title {
+  margin-bottom: 10px;
+}
+.box {
+  margin-bottom: 50px;
+  clear: both;
+}
+/* 資生堂グループのソーシャルメディア */
+.snsBox-header {
+  height: 77px;
+}
+.snsBox-title {
+  height: 50px;
+  position: relative;
+}
+.youtubeTitile {
+  background: url("../img/bg_youtube_title.gif") no-repeat 0 0;
+}
+.fbTitile {
+  background: url("../img/bg_facebook_title.gif") no-repeat 0 0;
+}
+.snsBox-title a {
+  height: 50px;
+  width: 100%;
+}
+.snsBox-title img {
+  position: absolute;
+  top: 34%;
+  left: 15px;
+}
+.snsBox-parts {
+  height: 365px;
+}
+.snsBox-caption {
+  font-size: 16px;
+  margin-top: 10px;
+}
+/* youtube */
+.youtubeParts {
+  text-align: center;
+  float: left;
+  width: 485px;
+}
+/* facebook */
+.fbParts {
+  text-align: center;
+  float: right;
+  width: 485px;
+}
+.likeCount {
+  height: 20px;
+}
+.likeNumber {
+  font-size: 12px;
+  display: inline-block;
+  margin-left: 15px;
+}
+.fbArticle-thumb {
+  background-color: #000;
+  display: inline-block;
+  width: 236px;
+  height: 250px;
+  vertical-align: top;
+  position: relative;
+}
+.fbArticle-thumb a {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.fbArticle-thumb img {
+  position: absolute;
+  top: 32px;
+  left: 0;
+}
+.fbArticle-comment {
+  font-size: 13px;
+  text-align: left;
+  display: inline-block;
+  background-color: #c7c7c7;
+  width: 240px;
+  height: 250px;
+  padding: 10px;
+}
+/* 資生堂グループの事業 */
+.groupBox {
+  height: 480px;
+  margin-right: -30px;
+}
+.groupBox-item {
+  text-align: center;
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 25px;
+}
+.groupBox-caption {
+  margin-top: 7px;
+}
+/* 注意 */
+.warningBox {
+  border: 1px solid #ccc;
+}
+.warningBox a {
+  font-size: 13px;
+  background: url("../img/icon_attention.png") no-repeat 15px center;
+  background-size: 14px 14px;
+  text-indent: 25px;
+  padding: 10px;
+}
+.warningBox a:hover {
+  background-color: #ccc;
+  text-decoration: none;
+}
+.iconBox {
+  height: 20px;
+  text-align: right;
+}
+.iconBox a {
+  float: right;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+.iconBox img {
+  height: 20px;
+}
+/* フッター */
+.sitemap {
+  width: 700px;
+  float: left;
+}
+.sitemap a {
+  color: #fff;
+  font-size: 13px;
+  display: inline-block;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.copyright {
+  color: #fff;
+  font-size: 10px;
+  float: right;
+}

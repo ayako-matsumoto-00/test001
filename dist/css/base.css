@@ -1,0 +1,76 @@
+html,
+body,
+div,
+p,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+form,
+fieldset,
+input,
+textarea,
+pre,
+blockquote,
+th,
+td,
+section,
+footer {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 100%;
+  font-weight: normal;
+}
+a,
+article,
+section,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+menu,
+nav,
+summary {
+  display: block;
+}
+img {
+  vertical-align: middle;
+  border: 0;
+}
+body {
+  font-family: 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', Arial, sans-serif;
+  line-height: 1.6;
+  color: #140e16;
+  font-size: 15px;
+}
+a {
+  color: #140e16;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+ol,
+ul {
+  list-style: none;
+}

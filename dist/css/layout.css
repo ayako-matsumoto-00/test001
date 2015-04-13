@@ -1,0 +1,46 @@
+body {
+  height: 100%;
+  width: 100%;
+}
+.l_container {
+  width: 100%;
+}
+.l_contents {
+  width: 980px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin: 0 auto;
+}
+.l_footer {
+  background: #c80421;
+  height: 83px;
+  width: 100%;
+  padding-top: 30px;
+}
+.l_footerContents {
+  width: 980px;
+  margin-right: auto;
+  margin-left: auto;
+}
+/* clearfix */
+.clearfix:after {
+  clear: both;
+  height: 0;
+  visibility: hidden;
+  display: block;
+  content: ".";
+  font-size: 0;
+}
+.clearfix {
+  display: inline-block;
+  min-height: 1%;
+/* for IE 7*/
+}
+/* Hides from IE-mac \*/
+* html .clearfix {
+  height: 1%;
+}
+/* End hide from IE-mac */
+.clearfix {
+  display: block;
+}
