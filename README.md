@@ -9,4 +9,3 @@ tset repository 001
 
 * あいうえお
 * かきくけ
-* さしそ
