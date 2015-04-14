@@ -7,7 +7,7 @@ test repository 001
 
 * one
 * two
-* threeeeeeeeeeeeeeeee
+* threeeeoooooo
 * four
 * five
 * six
