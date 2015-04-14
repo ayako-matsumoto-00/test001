@@ -9,3 +9,4 @@ test repository 001
 
 * あいうえお
 * かきくけ
+* dede
