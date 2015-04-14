@@ -19,3 +19,4 @@ test repository 001
 * four
 * five
 * six
+* seven
