@@ -6,3 +6,7 @@ tset repository 001
 # wwwww
 
 # zzzzz
+
+* あいうえお
+* かきくけ
+* さしそ
